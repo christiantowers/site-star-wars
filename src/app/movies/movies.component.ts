@@ -18,7 +18,6 @@ export class MoviesComponent implements OnInit {
      this.moviesService.getMovies()
      .subscribe(results =>  this.movies = results,
                 error => this.errorMsg = error  );
-  // console.log(this.movies);
   }
 
 }

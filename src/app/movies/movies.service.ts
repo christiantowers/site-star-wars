@@ -7,8 +7,6 @@ import { IMovieItem } from './movie';
 
 @Injectable()
 export class MoviesService {
-    results = {};
-    movies = [];
     private apiURL = `https://swapi.co/api/films/?format=json`;
 
     constructor( private http: HttpClient  ) {}
