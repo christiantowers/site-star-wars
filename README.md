@@ -1,5 +1,12 @@
 # SiteStarWars
 
+## Instalação
+- Para instalar o sistema, basta fazer uma cópia do sistema com o comando _git clone <https://github.com/christiantowers/site-star-wars.git>_ 
+- Caso não tenha instalar o node.js e @angular/cli
+- Após a cópia do projeto e a instalação, basta entrar na pasta do projeto e rodar o comando _npm install_ para instalar as dependencias do sistema.
+- Após isso, rodar o sistema, com o comando _ng serve_. 
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
 ## Development server
