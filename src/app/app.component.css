@@ -1,0 +1,19 @@
+.content {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    width: 100%;
+}
+
+.brand-logo {
+    height: 88%;    
+    margin-top: .3em;
+    margin-left: .5em;
+}
+
+.brand-logo img {
+    height: 75%;
+}
